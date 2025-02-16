@@ -1,0 +1,6 @@
+@localhost=http://localhost:3000/api
+@devhost=https://
+@prodhost=https://
+
+### Health check 
+GET {{localhost}}/claim-letter/health

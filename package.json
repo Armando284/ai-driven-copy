@@ -1,0 +1,37 @@
+{
+  "name": "ai-driven-api",
+  "version": "1.0.0",
+  "description": "API for the AI Driven Claim Letter Assistant project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node --watch ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dev.azure.com/AI-DrivenClaimLetterAssistant/AI-Driven Claim Letter Assistant/_git/AI-Driven Claim Letter Assistant"
+  },
+  "keywords": [
+    "API",
+    "AI",
+    "Letter",
+    "Assitant"
+  ],
+  "author": "Armando J. Peña Tamayo",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "3.0.0",
+    "cookie-parser": "1.4.7",
+    "debug": "4.4.0",
+    "dotenv": "16.4.7",
+    "express": "4.21.2",
+    "jsonwebtoken": "9.0.2",
+    "morgan": "1.10.0",
+    "pg": "8.13.3",
+    "pg-hstore": "2.3.4",
+    "sequelize": "6.37.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "6.6.2"
+  }
+}
