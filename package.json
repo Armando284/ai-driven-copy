@@ -4,8 +4,9 @@
   "description": "API for the AI Driven Claim Letter Assistant project.",
   "main": "app.js",
   "scripts": {
-    "test": "test",
-    "dev": "node --watch ./server.js"
+    "start": "node ./server.js",
+    "dev": "node --watch ./server.js",
+    "test": "test"
   },
   "repository": {
     "type": "git",
