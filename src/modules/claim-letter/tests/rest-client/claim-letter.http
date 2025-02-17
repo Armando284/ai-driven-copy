@@ -1,6 +1,9 @@
 @localhost=http://localhost:3000/api
-@devhost=https://
-@prodhost=https://
+@devhost=https://ai-driven-copy.onrender.com/api
+@prodhost=
 
 ### Health check 
 GET {{localhost}}/claim-letter/health
+
+### dev health test
+GET {{devhost}}/claim-letter/health
