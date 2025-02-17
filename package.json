@@ -10,12 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://dev.azure.com/AI-DrivenClaimLetterAssistant/AI-Driven Claim Letter Assistant/_git/AI-Driven Claim Letter Assistant"
+    "url": "https://github.com/Armando284/ai-driven-api.git"
   },
   "keywords": [
     "API",
     "AI",
-    "Letter",
     "Assitant"
   ],
   "author": "Armando J. Peña Tamayo",

@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://AI-DrivenClaimLetterAssistant@dev.azure.com/AI-DrivenClaimLetterAssistant/AI-Driven%20Claim%20Letter%20Assistant/_git/AI-Driven%20Claim%20Letter%20Assistant ai-driven-claim-assistant-api
+   git clone https://github.com/Armando284/ai-driven-api.git ai-driven-assistant-api
    ```
 
 2. **Install dependencies**:
