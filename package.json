@@ -30,9 +30,18 @@
     "morgan": "1.10.0",
     "pg": "8.13.3",
     "pg-hstore": "2.3.4",
-    "sequelize": "6.37.5"
+    "sequelize": "6.37.5",
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "sequelize-cli": "6.6.2"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "es5-ext"
+    ],
+    "onlyBuiltDependencies": [
+      "es5-ext"
+    ]
   }
 }
