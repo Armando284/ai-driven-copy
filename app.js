@@ -9,6 +9,6 @@ const app = express()
 app.use(helmet())
 app.use(morgan('dev'))
 app.use(express.json())
-app.use('/api/claim-letter', claimLetterRoutes)
+app.use('/api/v1/claim-letter', claimLetterRoutes)
 
 module.exports = app
