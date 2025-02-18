@@ -7,3 +7,6 @@ GET {{localhost}}/claim-letter/health
 
 ### dev health test
 GET {{devhost}}/claim-letter/health
+
+### get all claims
+GET {{localhost}}/claim-letter/list
